@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Seamless Carbon Offsetting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-01 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: classes/neutralcart-frontend.php:267
+msgid "[TEST MODE]"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:112
+msgid "After billing details form"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:105
+msgid "After order notes"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:81
+msgid "Auto-checked / Auto-applied the fees"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:116
+msgid "Before customer details"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:101
+msgid "Before payment (default)"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:108
+msgid "Before the checkout form"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:67
+msgid "Bright"
+msgstr ""
+
+#: neutralcart.php:42
+msgid "Carbon Offset"
+msgstr ""
+
+#. Description of the plugin
+msgid "CO2 Compensation for E-Commerce"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:73
+msgid "Custom CSS"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:56
+#: classes/neutralcart-admin-settings.php:66
+msgid "Dark"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:55
+msgid "Default (bright)"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:65
+msgid "Default (green)"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:46
+#: classes/neutralcart-admin-settings.php:88
+msgid "Disable"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:41
+#: classes/neutralcart-admin-settings.php:85
+msgid "Enable"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://neutralcart.se/"
+msgstr ""
+
+#: classes/neutralcart-frontend.php:279
+msgid "I want to carbon offset my purchase"
+msgstr ""
+
+#: classes/neutralcart-frontend.php:284
+msgid "Neutral Cart makes it easy to offset your carbon footprint. "
+msgstr ""
+
+#. Author of the plugin
+msgid "neutralcart"
+msgstr ""
+
+#. URI of the plugin
+msgid "neutralcart.se"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:96
+msgid "Placement"
+msgstr ""
+
+#: classes/neutralcart-frontend.php:285
+msgid ""
+"Read more about Neutral Cart and why you should make climate compensate your "
+"purchases "
+msgstr ""
+
+#. Name of the plugin
+msgid "Seamless Carbon Offsetting"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:52
+msgid "Select label style"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:62
+msgid "Select Neutral Cart logo style"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:37
+msgid "Status"
+msgstr ""
+
+#: classes/neutralcart-admin-settings.php:44
+msgid "Test mode"
+msgstr ""
